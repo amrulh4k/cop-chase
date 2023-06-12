@@ -1,6 +1,14 @@
-# OpenCnR
+# Los Santos Cop Chase
 
 cop-chase is a SA-MP Cops and Robbers gamemode!
+
+# Credits
+
+- thecodeah
+- WoutProvost
+
+# Revamp & Fixed
+- Amrul (astronova)
 
 ## Contributing
 
