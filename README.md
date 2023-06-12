@@ -7,7 +7,7 @@ cop-chase is a SA-MP Cops and Robbers gamemode!
 - thecodeah
 - WoutProvost
 
-# Revamp & Fixed
+# Revamp & Fixed / Improvements
 - Amrul (astronova)
 
 ## Contributing
