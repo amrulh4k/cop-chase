@@ -1,19 +1,19 @@
 # OpenCnR
 
-OpenCnR is a SA-MP Cops and Robbers gamemode!
+cop-chase is a SA-MP Cops and Robbers gamemode!
 
 ## Contributing
 
-If you'd like to contribute to the project, please check the contribution guidelines.
+Jika Anda ingin berkontribusi pada project ini, harap periksa guidelines kontribusi.
 
 ## Setting up your own instance
 
-**NOTE : OpenCnR is currently still in it's alpha phase and not ready for production.**
+**NOTE : cop-chase saat ini masih dalam tahap beta dan belum siap untuk diproduksi/jalankan untuk server.**
 
-You can set up your own instance of OpenCnR within 5 minutes using Docker.
+Anda dapat mengatur instance cop-chase Anda sendiri dalam waktu 5 menit menggunakan Docker.
 
 ```
-git clone https://github.com/opencnr/gamemode && cd gamemode
+git clone https://github.com/astro-debug/cop-chase && cd cop-chase
 ```
 
 ```
